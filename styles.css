@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+h1 {
+  text-transform: uppercase;
+  color: rgb(3, 37, 3);
+}
+canvas {
+  margin-top: 20px;
+}
